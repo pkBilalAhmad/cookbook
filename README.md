@@ -3,9 +3,8 @@
 **this is bold**
 *this is italic text*
 * and this is unordered list items 
-1 and this is ordered list items
-!this is image rool
-and this is link rool!
-
-and how  r u
-and how  r u
+1 and this is ordered list item
+! this is image rool
+and this is link rool !
+### ye dikho
+**ye bhi bo
